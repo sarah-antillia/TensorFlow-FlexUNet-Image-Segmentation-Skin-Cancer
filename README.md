@@ -1,5 +1,5 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Skin-Cancer  (2026/01/19)</h2>
-Toshiyuki Arai<br>
+Sarah T. Arai<br>
 Software Laboratory antillia.com<br><br>
 This is the first experiment of Image Segmentation for <b>Skin Cancer</b> based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> 
 (TensorFlow Flexible UNet Image Segmentation Model for Multiclass) , 
